@@ -199,3 +199,9 @@ Status tracking
 Read-only admin oversight
 
 Clean layout with scalability
+
+## Database – Projects Collection
+![Projects Collection](images/DB-project.png)
+
+## Database – Users Collection
+![Users Collection](images/DB-user.png)
